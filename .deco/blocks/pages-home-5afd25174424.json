@@ -3,6 +3,9 @@
   "path": "/",
   "sections": [
     {
+      "__resolveType": "hero"
+    },
+    {
       "__resolveType": "site/sections/BlogPosts.tsx",
       "posts": {
         "__resolveType": "blog/loaders/BlogpostList.ts",

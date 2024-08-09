@@ -146,7 +146,7 @@
   },
   "/.deco/blocks/pages-My%2520New%2520Page-127337.json": {
     "name": "My New Page",
-    "path": "/example-path",
+    "path": "/my-new-page",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   }
